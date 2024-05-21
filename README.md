@@ -6,7 +6,8 @@ Welcome to the DL-END-TO-END repository, where we focus on providing end-to-end 
 
 - **Breast Cancer Detection with TensorFlow**: `Breast_cancer_tensorflow.ipynb` is a Jupyter notebook that demonstrates how to use TensorFlow to build a model for detecting breast cancer from biopsy data.
 - **Breast Cancer Prediction with PyTorch**: `cancer-prediction/breast_cancer_pytorch.ipynb` showcases a PyTorch implementation for predicting breast cancer using neural networks.
-- **CIFAR-10 Image Dataset**: `CIFAR-10-Dataset/CIFAR10.ipynb` is a Jupyter notebook that demonstrates how to use TensorFlow to build a model for classifing diffrent image class.
+- **CIFAR-10 Image Dataset**: `CIFAR-10-Dataset/CIFAR10.ipynb` is a Jupyter notebook that demonstrates how to use TensorFlow to build a model for classifying different image classes.
+- **Face Mask Detection**: `face_mask_detection/face_mask_detection.ipynb` is a Jupyter notebook that demonstrates how to use deep learning to detect whether individuals in images are wearing face masks.
 
 ## Future Work
 
